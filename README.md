@@ -15,15 +15,15 @@ of the newest open localization standard.
 The library includes classes for all the Core elements as well as all the 
 module elements as described in the standard including: 
 
-Core Elements (xliff, file, group, etc)
-Change Tracking Module
-Format Style Module
-Glossary Module
-Metadata Module
-Resource Data Module
-Size and Length Restriction Module
-Translation Candidates Module
-Validation Module
+* Core Elements (xliff, file, group, etc)
+* Change Tracking Module
+* Format Style Module
+* Glossary Module
+* Metadata Module
+* Resource Data Module
+* Size and Length Restriction Module
+* Translation Candidates Module
+* Validation Module
 
 For more information, please take a look at the XLIFF 2.0 Class Guide
 documentation provided with this project.
